@@ -1,0 +1,2 @@
+assignment2文件是Xcode项目下的所有的内容，
+Objective-C Assignment2.pdf是一个简单的实验报告书，
